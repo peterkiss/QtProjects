@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/typo">
+        <file>icon/logo.png</file>
+        <file>icon/logo_t.png</file>
+        <file>icon/snap_to_curve.png</file>
+        <file>icon/select.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/curve.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/duplicate.png</file>
+        <file>icon/ellipse.png</file>
+        <file>icon/mirror.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/rotate.png</file>
+        <file>icon/scale.png</file>
+        <file>icon/rectangle.png</file>
+        <file>icon/snap_to_point.png</file>
+        <file alias="curve">1400204675_stock_draw-curve.png</file>
+        <file alias="image">images_128.png</file>
+        <file alias="move">move_48.png</file>
+    </qresource>
+</RCC>
